@@ -88,7 +88,7 @@ The **Maison Lumière Global Skincare & Beauty E-Commerce Dashboard** is a Power
 
 > *Analyses sales, profit, and efficiency trends by market, region, and country.*
 
-<img width="1368" height="867" alt="Market Performance   Efficiency Dashboard" src="https://github.com/user-attachments/assets/299a37f5-1420-48f9-bf74-a4b12f467e5a" />
+<img width="1368" height="867" alt="Market Performance   Efficiency Dashboard" src="https://github.com/user-attachments/assets/f13c6373-b350-4f88-9d13-2332a3d0e6e7" />
 
 #### KPI Cards
 
